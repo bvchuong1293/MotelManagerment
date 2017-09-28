@@ -1,0 +1,13 @@
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\bin\Debug\MotelManagement.Service.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\bin\Debug\MotelManagement.Service.pdb
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\obj\Debug\MotelManagement.Service.csprojResolveAssemblyReference.cache
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\obj\Debug\MotelManagement.Service.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\obj\Debug\MotelManagement.Service.pdb
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\bin\Debug\MotelManagement.Common.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\bin\Debug\MotelManagement.Data.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\bin\Debug\MotelManagement.Model.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\bin\Debug\MotelManagement.Common.pdb
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\bin\Debug\MotelManagement.Data.pdb
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\bin\Debug\MotelManagement.Model.pdb
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\bin\Debug\EntityFramework.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Service\bin\Debug\EntityFramework.xml

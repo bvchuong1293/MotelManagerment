@@ -1,0 +1,10 @@
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Model\bin\Debug\MotelManagement.Model.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Model\bin\Debug\MotelManagement.Model.pdb
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Model\obj\Debug\MotelManagement.Model.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Model\obj\Debug\MotelManagement.Model.pdb
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Model\bin\Debug\MotelManagement.Model.dll.config
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Model\bin\Debug\EntityFramework.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Model\bin\Debug\EntityFramework.xml
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Model\obj\Debug\MotelManagement.Model.csprojResolveAssemblyReference.cache

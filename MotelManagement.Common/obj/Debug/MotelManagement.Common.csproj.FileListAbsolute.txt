@@ -1,0 +1,4 @@
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Common\bin\Debug\MotelManagement.Common.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Common\bin\Debug\MotelManagement.Common.pdb
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Common\obj\Debug\MotelManagement.Common.dll
+F:\Tin bóng đá\OneDrive - khoavanhoc.edu.vn\Sourcecode\MotelManagement\MotelManagement.Common\obj\Debug\MotelManagement.Common.pdb
